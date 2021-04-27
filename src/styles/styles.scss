@@ -1,0 +1,33 @@
+@import './cards.css';
+@import './animate.css';
+
+#notificationArea {
+  bottom: 20px;
+  left: 10px;
+  position: fixed;
+  max-width: 800px;
+}
+
+.product-price {
+  margin-top: 15px;
+  font-weight: bold;
+  font-size-adjust: 1.25;
+}
+
+.order-total {
+  font-weight: bold;
+}
+
+//.btn-gm {
+//  background-color: #4CAF50;
+//  border: none;
+//  color: white;
+//  padding: 20px;
+//  text-align: center;
+//  text-decoration: none;
+//  display: inline-block;
+//  font-size: 16px;
+//  margin: 4px 2px;
+//}
+//
+//.btn-round {border-radius: 50%;}

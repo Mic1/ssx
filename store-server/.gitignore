@@ -1,0 +1,8 @@
+node_modules/
+typings/
+
+products.json
+
+#VSCode
+.vscode/
+jsconfig.json

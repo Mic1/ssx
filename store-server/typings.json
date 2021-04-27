@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "lokijs": "registry:dt/lokijs#0.0.0+20160316155526",
+    "node": "registry:dt/node#6.0.0+20160925070332"
+  },
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160925001530"
+  }
+}
